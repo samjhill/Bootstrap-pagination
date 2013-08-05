@@ -17,3 +17,9 @@ Include Bootstrap, jQuery, Bootstrap-Pagination, and Javascript.
 <script type="text/javascript" src="js/bootstrap-pagination.js"></script>
 ```
 
+Call the plugin by giving your table the ID main-table, then include this line in your javascript.
+``` javascript
+<script type="text/javascript">
+     $('#main-table').bootstrapPagination({rowsPerPage: 5});
+</script>
+```
