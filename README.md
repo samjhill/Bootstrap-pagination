@@ -11,8 +11,8 @@ Include Bootstrap, Font-Awesome, jQuery, Bootstrap-Pagination, and Javascript (i
 ``` html
 <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8;" />
 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
-<link rel="stylesheet" href="css/font-awesome.min.css">
-<link rel="stylesheet" href="css/font-awesome-ie7.min.css">
+<link rel="stylesheet" href="font/font-awesome.min.css">
+<link rel="stylesheet" href="font/font-awesome-ie7.min.css">
     
 <script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
