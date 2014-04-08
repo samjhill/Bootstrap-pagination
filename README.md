@@ -2,7 +2,7 @@ Bootstrap-pagination
 ====================
 Bootstrap-pagination improves on https://code.google.com/p/one-simple-table-paging/ for those who want front-end pagination that fits with the Bootstrap aesthetic.
 
-Demo: http://www.samjhill.com/projects/bootstrap-pagination/
+Demo: http://samjhill.github.io/Bootstrap-pagination/
 
 Usage
 -----
